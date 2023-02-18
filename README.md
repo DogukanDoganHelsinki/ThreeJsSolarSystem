@@ -1,4 +1,4 @@
-# solarsystem
+# D's SolarSystem
 
 1. Download repository
 2. Make sure to install dependencies: open project in VSCode -> open command line -> type: npm install
